@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cat Clicker</title>
+  <link rel="stylesheet" href="CatClicker.css">
+</head>
+<body>
+
+  <div class="main-box">
+    <h1 class="title">CAT CLICKER</h1>
+
+    <div id="clickCounter" class="click-counter">
+      <span id="count">0</span>
+    </div>
+
+    <img id="catImage" src="cat/g1.png" alt="Cat" class="cat-img">
+
+    <div class="intro">
+      Feed the Cat by clicking SPACE
+      <br>
+      <span style="color:red; font-weight:bold;">DO NOT PRESS WHEN RED</span>
+      <br><br>
+      <button id="feedButton" class="feed-button">FEED</button>
+    </div>
+  </div>
+
+  <div id="stopScreen" class="stop-screen">
+    <img src="cat/g1.png" class="stop-icon" alt="Stop Icon">
+    <h1>STOP</h1>
+    <p>Don't press Space or HE will EAT YOU...</p>
+  </div>
+
+  <div id="minusThirty" class="minus-thirty">-30</div>
+
+  <script src="CatClicker.js"></script>
+</body>
+</html>
