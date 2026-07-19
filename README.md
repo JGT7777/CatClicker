@@ -1,2 +1,18 @@
 # CatFeeder
 It's a game, that only uses the space, again :D  The objective of this game is feeding the cat, you will see that the cat is hungry, don't let that happen, because it will eat you...
+
+
+-----------------------------------------------
+Español 
+-----------------------------------------------
+
+
+
+
+
+
+
+-----------------------------------------------
+Ingles
+-----------------------------------------------
+
